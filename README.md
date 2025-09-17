@@ -1,1 +1,2 @@
 # MTSNR
+Our paper introduces a physics-informed deep prior method that leverages satellite side-swing calibration data and wavelet-based neural network priors to isolate and decompose overlapping stripe components. Distinct physical constraints enable the separation of different noise types while preserving scene details. We will upload the relevant information for the dataset and code after the paper is accepted.
