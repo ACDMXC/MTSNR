@@ -1,5 +1,9 @@
 # Minimal MTSNR single-image inference
 
+## Publication Status
+
+This manuscript is currently under review at *IEEE Transactions on Image Processing (TIP)* and has been resubmitted following major revision. This repository will be updated as the work progresses. If you find this method or code useful, please consider citing our work. The complete citation information will be provided once the paper becomes publicly available.
+
 This small release runs the proposed wavelet-CNN initialization followed by ADMM refinement on one thermal-infrared TIFF. It produces three PDFs containing the image comparison, ADMM convergence, and row/column mean profiles.
 
 The residual shown in the third panel is defined as:
