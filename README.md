@@ -14,6 +14,31 @@ The residual shown in the third panel is defined as:
 ```text
 Residual = Noisy - Proposed
 ```
+## Example Results
+
+### Restoration Result
+
+The residual is defined as `Noisy - Proposed`.
+
+![Noisy, proposed restoration, and residual](Results/noisy_proposed_residual.png)
+
+[Download the PDF version](Results/noisy_proposed_residual.pdf)
+
+### ADMM Convergence
+
+The normalized primal and dual residuals are plotted using linear axes.
+
+![ADMM convergence](Results/admm_convergence.png)
+
+[Download the PDF version](Results/admm_convergence.pdf)
+
+### Row and Column Mean Profiles
+
+The mean profiles compare the noisy input with the proposed restoration result.
+
+![Row and column mean profiles](Results/row_column_mean_profiles.png)
+
+[Download the PDF version](Results/row_column_mean_profiles.pdf)
 
 ## Contents
 
