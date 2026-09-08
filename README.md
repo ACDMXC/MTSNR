@@ -2,7 +2,7 @@
 
 ## Publication Status
 
-This manuscript is currently under review at *IEEE Transactions on Image Processing (TIP)* and has been resubmitted following major revision. This repository will be updated as the work progresses. If you find this method or code useful, please consider citing our work. The complete citation information will be provided once the paper becomes publicly available.
+This manuscript is currently under review at *IEEE Transactions on Image Processing (TIP)* and has been resubmitted following major revision. This repository will be updated as the work progresses. If you find this method or code useful, please consider citing our work. Upon acceptance of the manuscript, we will release the complete implementation, training and evaluation code, additional experimental configurations, and releasable data through this repository.
 ## Code and Data Availability
 
 The current repository provides a minimal inference release containing only the code and example image required to test the proposed method. After the paper is published, we plan to release the complete implementation, experimental data, evaluation scripts, and additional examples needed to reproduce the reported results. All materials will be made publicly available subject to applicable data-sharing policies and third-party licensing requirements.
