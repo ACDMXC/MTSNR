@@ -9,11 +9,6 @@ The current repository provides a minimal inference release containing only the 
 
 This small release runs the proposed wavelet-CNN initialization followed by ADMM refinement on one thermal-infrared TIFF. It produces three PDFs containing the image comparison, ADMM convergence, and row/column mean profiles.
 
-The residual shown in the third panel is defined as:
-
-```text
-Residual = Noisy - Proposed
-```
 ## Example Results
 
 ### Restoration Result
