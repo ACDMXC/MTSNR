@@ -2,10 +2,11 @@
 
 ## Publication Status
 
-This manuscript is currently under review at *IEEE Transactions on Image Processing (TIP)* and has been resubmitted following major revision. This repository will be updated as the work progresses. If you find this method or code useful, please consider citing our work. Upon acceptance of the manuscript, we will release the complete implementation, training and evaluation code, additional experimental configurations, and releasable data through this repository.
+This manuscript is currently under review at *IEEE Transactions on Image Processing (TIP)* and has been resubmitted following major revision. This repository will be updated as the work progresses. If you find this method or code useful, please consider citing our work. Upon acceptance of the manuscript, we will release the complete implementation, training and evaluation code, additional experimental configurations, and releasable data through this repository. All materials will be made publicly available subject to applicable data-sharing policies and third-party licensing requirements.
+
 ## Code and Data Availability
 
-The current repository provides a minimal inference release containing only the code and example image required to test the proposed method. After the paper is published, we plan to release the complete implementation, experimental data, evaluation scripts, and additional examples needed to reproduce the reported results. All materials will be made publicly available subject to applicable data-sharing policies and third-party licensing requirements.
+The current repository provides a minimal inference release containing only the code and example image required to test the proposed method. 
 
 This small release runs the proposed wavelet-CNN initialization followed by ADMM refinement on one thermal-infrared TIFF. It produces three PDFs containing the image comparison, ADMM convergence, and row/column mean profiles.
 
